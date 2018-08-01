@@ -1,0 +1,30 @@
+# ivettes-website
+my first html website made at girls who code
+
+
+
+h1{
+  text-align: center;
+  color:pink;
+  font-size:40px;
+  font-family: lucida console;
+  background: white;
+}
+
+h2{
+  text-align: right;
+}
+
+.one{
+  width: 200px;
+  height: 200px;
+}
+
+body{
+  text-align: center;
+  color:purple;
+  font-size:39;
+  font-family: lucida console;
+  background: pink;
+  border:10px solid #F0FFFF;
+}
