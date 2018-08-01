@@ -1,0 +1,25 @@
+# ivettes-website
+my first html website made at girls who code
+
+
+#import math
+#>>> 1+1
+#sqaure = math.sqrt(36)
+#print (sqaure)
+#temperature = math.radians(90)
+#print (temperature)
+#temperature = math.degrees(0.1)
+#print (temperature)
+#acr = math.atan(2)
+#print (acr)
+
+#import random
+#for x in range(20):
+    #num = random.randint(1,60)
+#print(num)
+
+
+apples = 4
+oranges = 6
+
+print(apples // oranges)
