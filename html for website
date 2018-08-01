@@ -1,0 +1,37 @@
+# ivettes-website
+my first html website made at girls who code
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="stylesheet" href="otherpage.css">
+      <link rel="stylesheet" href="web.js">
+      <title> Website</title>
+    </head>
+    <body>
+<p id="demo"></p>
+
+<h1> <strong> <em> Me </em> </strong> </h1>
+ <h2 ><button onclick="myFun()">Click on me </button> </h2>
+<body>
+<p> I am 16 years old and I go to a High School... </p>
+
+<img class="one" src="http://matchbin-assets.s3.amazonaws.com/public/sites/383/assets/3L9V_KFA7_09nbschool06_1.jpg">
+
+<p>
+My favorite seasons are winter and summer. Mother nature if so beautiful. I am an outdoor person who enjoys swimming and iceskating.
+</p>
+<img class="one"src= "http://travelquaz.com/wp-content/uploads/2015/09/best-places-to-visit-for-summer-vacation-travelquaz-com-3.jpg"128">
+<img class="one" src="https://www.ihdimages.com/wp-content/uploadsktz/2014/10/wallpaper_nature_winter_wide.jpg">
+<p> There is nothing better than burgers for breakfast, lunch or dinner!! </p>
+<img class="one" src="https://checkers.com/wp-content/uploads/2017/03/BigBuford_MenuItemHero_2560x1000.jpg">
+<p>
+I have two siblings and I am the oldest.
+</p>
+ <button onclick="topFunction()" id="myBtn" title="top">Top</button>
+<script src="web.js"></script>
+
+</body>
+</html>
