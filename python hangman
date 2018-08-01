@@ -1,0 +1,15 @@
+# ivettes-website
+my first html website made at girls who code
+
+
+
+def intro():
+    answer = input("Hello, welcome to 'hangman'! What is your name?")
+print = ("answer" + "To begin to play start guessing the word by typing a letter. The world contains 5 dijits"")
+def main ()
+    def comments(choice):
+    if choice==""
+    print("")
+    else:
+        print("You have to pick a letter")
+print("Hello, World!")
