@@ -1,0 +1,15 @@
+# ivettes-website
+my first html website made at girls who code
+
+
+
+window.alert("OPEN?");
+
+
+function myFun() {
+    document.getElementById("demo").innerHTML = "HI you this is";
+}
+
+function topFunction() {
+    document.documentElement.scrollTop = 0;
+}
