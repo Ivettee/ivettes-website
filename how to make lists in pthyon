@@ -1,0 +1,32 @@
+# ivettes-website
+my first html website made at girls who code
+
+
+numbers= [3,5,2,7,36,85]
+numbers2= [1,2,3,4,5,6,7,8,9,10,53]
+print(numbers[0:3])
+print (numbers[3:8:2])
+print(numbers[3:])
+print (len(numbers))
+print(0 in numbers)
+print (range(5))
+numbers.append(19)
+print(numbers)
+numbers.insert(2,89)
+print(numbers)
+#numbers.extend(numbers2)
+print(numbers)
+testIndex = numbers.index(36)
+print(testIndex)
+
+
+print(numbers)
+numbers.remove(85)
+print(numbers)
+popped = numbers.pop()
+print(numbers)
+print(popped)
+#numbers = sorted(numbers)
+print(sorted(numbers,reverse=True))
+print(numbers)
+print(numbers[-1])
